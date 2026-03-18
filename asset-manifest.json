@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/saiphatak93.github.io/myproject-PharmaRX/static/js/main.3e777bd7.js",
-    "index.html": "/saiphatak93.github.io/myproject-PharmaRX/index.html",
-    "main.3e777bd7.js.map": "/saiphatak93.github.io/myproject-PharmaRX/static/js/main.3e777bd7.js.map"
+    "main.js": "/myproject-PharmaRX/static/js/main.07b3811d.js",
+    "index.html": "/myproject-PharmaRX/index.html",
+    "main.07b3811d.js.map": "/myproject-PharmaRX/static/js/main.07b3811d.js.map"
   },
   "entrypoints": [
-    "static/js/main.3e777bd7.js"
+    "static/js/main.07b3811d.js"
   ]
 }
