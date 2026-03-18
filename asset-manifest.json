@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/myproject-PharmaRX/static/js/main.07b3811d.js",
-    "index.html": "/myproject-PharmaRX/index.html",
-    "main.07b3811d.js.map": "/myproject-PharmaRX/static/js/main.07b3811d.js.map"
+    "main.js": "/PharmaRX/static/js/main.14944dce.js",
+    "index.html": "/PharmaRX/index.html",
+    "main.14944dce.js.map": "/PharmaRX/static/js/main.14944dce.js.map"
   },
   "entrypoints": [
-    "static/js/main.07b3811d.js"
+    "static/js/main.14944dce.js"
   ]
 }
